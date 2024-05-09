@@ -329,7 +329,7 @@ public class currency {
 
             }
             if (options == 6) {
-                break;
+     clea           break;
             } else if (options == 5) {
                 getCountryCode();
             } else {
